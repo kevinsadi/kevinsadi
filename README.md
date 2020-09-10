@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin
+## Hi there, I'm Kevin
 
 ## I'm a Student at the Georgia Institute of Technology!
 
