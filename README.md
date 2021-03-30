@@ -2,11 +2,9 @@
 
 ## I'm a Student at the Georgia Institute of Technology!
 
--  My biggest life goals include working on cool research and meeting even cooler people.
--  Interested in Natural Language Processing, MR/AR/VR, and social computing.
--  I’m looking to collaborate with other content creators
--  2020 Goals: Contribute more to Open Source projects
--  Fun fact: I love playing jazz drumset and climbing rocks.
+-  My biggest life goals include working on cool projects and meeting even cooler people.
+-  Currently exploring MR/AR/VR and game development.
+-  Fun fact: I play jazz drums with the Tech Jazz Ensemble and love making music in my spare time.
 
 ### Connect with me:
 
