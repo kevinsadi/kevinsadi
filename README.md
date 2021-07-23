@@ -4,7 +4,7 @@
 
 -  My biggest life goals include working on cool projects and meeting even cooler people.
 -  Currently exploring MR/AR/VR and game development.
--  Fun fact: I play jazz drums with the Tech Jazz Ensemble and love making music in my spare time.
+-  I love talking about audio engineering and how it can connect with CS, ask me about it sometime
 
 ### Connect with me:
 
