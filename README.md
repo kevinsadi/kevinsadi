@@ -4,11 +4,10 @@
 
 -  My biggest life goals include working on cool projects and meeting even cooler people.
 -  Currently exploring MR/AR/VR and game development.
--  I love talking about audio engineering and how it can connect with CS, ask me about it sometime
+-  Looking for audio engineering / software sideprojects.
 
 ### Connect with me:
 
-[<img align="left" alt="Kevin Sadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KekinSadi)
 [<img align="left" alt="Kevin Sadi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kevinsadi/)
 [<img align="left" alt="Kevin Sadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kekin.sadi/)
 
