@@ -2,9 +2,8 @@
 
 ## I'm a Student at the Georgia Institute of Technology!
 
--  My biggest life goals include working on cool projects and meeting even cooler people.
--  Currently exploring MR/AR/VR and game development.
--  Looking for audio engineering / software sideprojects.
+-  I love working on cool projects and meeting even cooler people.
+-  I've developed a deep interest in graphics programming and audio programming. Ask me about some of my projects.
 
 ### Connect with me:
 
