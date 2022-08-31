@@ -1,9 +1,11 @@
 ## Hi there, I'm Kevin
 
 ## I'm a Student at the Georgia Institute of Technology!
-
--  I love working on cool projects and meeting even cooler people.
--  I've developed a deep interest in graphics programming and audio programming. Ask me about some of my projects.
+- Currently a graphics Teaching Assistant
+- Fourth year Computer Science student from Georgia Tech  
+- Planning on returning for my Masters with a Graphics concentration
+- I've developed a deep interest in graphics programming and audio programming
+- Looking for internships that align within my interests
 
 ### Connect with me:
 
