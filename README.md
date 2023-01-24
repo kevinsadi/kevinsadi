@@ -1,11 +1,10 @@
 ## Hi there, I'm Kevin
 
 ## I'm a Student at the Georgia Institute of Technology!
-- Currently a graphics Teaching Assistant
+- Currently a Graphics researcher advised by [Greg Turk](https://faculty.cc.gatech.edu/~turk/)
 - Fourth year Computer Science student from Georgia Tech  
-- Planning on returning for my Masters with a Graphics concentration
+- Returning for my Masters with a Graphics concentration
 - I've developed a deep interest in graphics programming and audio programming
-- Looking for internships that align within my interests
 
 ### Connect with me:
 
