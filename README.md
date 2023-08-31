@@ -1,9 +1,8 @@
 ## Hi there, I'm Kevin
 
-## I'm a Masters student at Georgia Tech
-- Currently a researcher with [EIC@GaTech](https://eiclab.scs.gatech.edu/)
-- I have a concentration in Graphics programming.
-- I've developed a deep interest in graphics programming and audio programming
+I’m a Masters student at Georgia Tech. I've interned with Toast Inc. twice, most recently working alongside their Android Operating Systems team. At Georgia Tech, I'm currently a Graduate TA for the Computer Animation class. Outside of University, I make games with friends in Unity, UnrealEngine 5, and my own handmade game engine, lei3D.
+
+For fun, I play drums with several jazz groups around Atlanta. I also love to play volleyball or climb with friends. You can probably catch me on the beach courts on West campus or at one of the Stone Summit locations.
 
 ### Connect with me:
 
