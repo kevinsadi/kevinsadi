@@ -1,8 +1,8 @@
 ## Hi there, I'm Kevin
 
-I’m a Masters student at Georgia Tech. I've interned with Toast Inc. twice, most recently working alongside their Android Operating Systems team. At Georgia Tech, I'm currently a Graduate TA for the Computer Animation class. Outside of University, I make games with friends in Unity, UnrealEngine 5, and my own handmade game engine, lei3D.
+I am about to graduate with my Masters in Computer Graphics at Georgia Tech. I’ve interned with 3 companies most recently working on Operating Systems with Toast Inc. I'm dedicated to leveraging my experience in graphics, systems, and machine learning to solve big and traditionally challenging problems within the graphics industry.
 
-For fun, I play drums with several jazz groups around Atlanta. I also love to play volleyball or climb with friends. You can probably catch me on the beach courts on West campus or at one of the Stone Summit locations.
+At school, I am deeply involved with the video game development club, and I am a Teaching Assistant for the Graduate Computer Animation class. Right now, outside of classes, I am leading a team of 70+ talented students in creating a physics based movement game in my own game engine (C++, OpenGL, Bullet3).
 
 ### Connect with me:
 
